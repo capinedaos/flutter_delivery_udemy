@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "356722961793",
+    "project_id": "delivery-app-cfff0",
+    "storage_bucket": "delivery-app-cfff0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356722961793:android:bc5b2bfa0508bca5c20c80",
+        "android_client_info": {
+          "package_name": "com.optic.flutter_delivery_udemy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356722961793-q1i8m9bre0fe55qo2tlk71iore3o3pha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.optic.flutter_delivery_udemy",
+            "certificate_hash": "45947d6cb99371038fd5312e4377c0ee2f30ff55"
+          }
+        },
+        {
+          "client_id": "356722961793-ipol43f3liv854tm7j3g3n6qvm5ugss1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJgWwc5ElI4K41pBarGdd6OBob9jtDqSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356722961793-ipol43f3liv854tm7j3g3n6qvm5ugss1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
